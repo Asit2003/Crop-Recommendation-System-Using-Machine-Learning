@@ -2,6 +2,15 @@
 
 This is a web-based application that helps farmers and agricultural enthusiasts determine the best crop to cultivate based on specific environmental conditions. The application uses a machine learning model to predict the most suitable crop by considering factors such as Nitrogen, Phosphorus, Potassium levels, Temperature, Humidity, pH, and Rainfall.
 
+### Research Paper
+This application is based on the research findings published in our IEEE paper:
+
+[A Comprehensive Crop Recommendation System Integrating Machine Learning and Deep Learning Models]
+- **Authors:** Asit Ghosh, Sunil Kumar Mohapatra, Pritam Pattanaik, Prasant Kumar Dash, Sujata Chakravarty
+- **Published in:** IEEE Conference/IC-CGU/2024
+- **DOI:** 10.1109/IC-CGU58078.2024.10530724
+
+You can access the full paper on the IEEE Xplore Digital Library here[https://ieeexplore.ieee.org/abstract/document/10530724].
 ### Features
 
 - **User-Friendly Interface:** A clean and intuitive interface for entering environmental conditions.
